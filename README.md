@@ -36,12 +36,12 @@ A2Z provided you an ABT (Analytic Based Table) with data regarding a sample of 1
 |Work Compensation|	Premiums (€) in LOB: Work Compensations|	(6)|
 
 Additional Information:
-> (1). May be considered as the first year as a customer. \
-> (2). The current year of the database is 2016.   
-> (3). No further information provided about the meaning of the area codes.\
-> (4). Lifetime value = (annual profit from the customer) X (number of |years that they are a customer) - (acquisition cost). \
-> (5). Amount paid by the insurance company (€)/ Premiums (€) Note: in the last 2 years. \
-> (6). Annual Premiums (2016). Negative premiums may manifest reversals occurred in the current year, paid in previous one(s).
+(1). May be considered as the first year as a customer. \
+(2). The current year of the database is 2016.   
+(3). No further information provided about the meaning of the area codes.\
+(4). Lifetime value = (annual profit from the customer) X (number of |years that they are a customer) - (acquisition cost). \
+(5). Amount paid by the insurance company (€)/ Premiums (€) Note: in the last 2 years. \
+(6). Annual Premiums (2016). Negative premiums may manifest reversals occurred in the current year, paid in previous one(s).
 Notice the data was stored in a SAS database file. There may be some intricacies when reading this file type using Python. Make sure the data is being imported properly and that you remove (before or after converting it to a pandas data frame) any irrelevant rows/columns you may find.
 
 ## Expected outcomes
