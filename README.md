@@ -1,6 +1,3 @@
-# Data-Mining-Project
-Data Mining Project 22-23
-
 # A2Z Insurance
 Students per group: 3 maximum
 
