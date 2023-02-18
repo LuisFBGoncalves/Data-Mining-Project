@@ -1,8 +1,6 @@
 # A2Z Insurance
 Students per group: 3 maximum
 ```
-Group members:
-
 Margarida Pereira: https://www.linkedin.com/in/margarida-roldaopereira/
 
 João Ferreira: https://www.linkedin.com/in/joao-miguel-ferreira/
