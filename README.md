@@ -45,9 +45,9 @@ Additional Information:
 Notice the data was stored in a SAS database file. There may be some intricacies when reading this file type using Python. Make sure the data is being imported properly and that you remove (before or after converting it to a pandas data frame) any irrelevant rows/columns you may find.
 
 ## Expected outcomes
->1 . Explore the data and identify the variables that should be used to segment customers.\
->2. Identify customer segments \
->3. Justify the number of clusters you chose (taking in consideration the business use as well). \
->4. Explain the clusters found. \
->5. Suggest business applications for the findings and define general marketing approaches for each cluster.
+1. Explore the data and identify the variables that should be used to segment customers.\
+2. Identify customer segments \
+3. Justify the number of clusters you chose (taking in consideration the business use as well). \
+4. Explain the clusters found. \
+5. Suggest business applications for the findings and define general marketing approaches for each cluster.
 Note: Invest time into evaluating your preprocessing pipeling, thinking how you want to do your clustering, possible approaches, and advantages or disadvantages of different decisions.
