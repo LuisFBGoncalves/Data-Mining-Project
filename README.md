@@ -35,7 +35,7 @@ A2Z provided you an ABT (Analytic Based Table) with data regarding a sample of 1
 |Life	|Premiums (€) in LOB: Life|	(6)|
 |Work Compensation|	Premiums (€) in LOB: Work Compensations|	(6)|
 
-Additional Information:
+Additional Information: \
 (1). May be considered as the first year as a customer. \
 (2). The current year of the database is 2016.   
 (3). No further information provided about the meaning of the area codes.\
